@@ -10,8 +10,8 @@
 
   -Econophysics 
   -Genetics
-  -Calculus
-  -Psychology
+  -Math
+  -Social Science
   
 - 💞️ I’m looking to collaborate on ...
 
